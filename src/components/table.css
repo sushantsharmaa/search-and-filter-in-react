@@ -1,0 +1,23 @@
+* {
+  width: 95%;
+  margin: auto;
+}
+
+table {
+  margin-top: 50px;
+  border: 1px solid gray;
+  padding: 10px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444;
+  font-weight: 300;
+  border-radius: 5px;
+}
+
+th,
+tr,
+td {
+  width: 30%;
+  border: 1px solid lightgray;
+  padding: 10px;
+}
